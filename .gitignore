@@ -34,6 +34,9 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
+# AI Studio internal files
+.aistudio/
+
 # AWS Amplify artifacts
 .amplify/
 amplify/#current-cloud-backend
