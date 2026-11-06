@@ -176,7 +176,7 @@ export const portfolioConfig = {
       category: 'ACADEMIC RESOURCE PLATFORM · FULL-SCALE WEB APP',
       year: '2024–PRESENT',
       liveUrl: 'https://bpharmhub.xyz/',
-      image: '/assets/aistudio/Untitled_Project_442280d4.jpg',
+      image: '/assets/media/Untitled_Project_442280d4.jpg',
       problem: 'Dr. A.P.J. Abdul Kalam Technical University (AKTU) pharmacy students frequently face dispersed study resources, unorganized semester syllabi, difficult-to-locate previous year question papers (PYQs), and missing lecture notes spread across fragmented messaging groups.',
       purpose: 'To create a single, clean, fast-loading, and completely open academic platform where pharmacy students across all 8 semesters can instantly find verified syllabi, structured subject notes, previous question papers, and essential guess papers.',
       features: [
@@ -197,7 +197,7 @@ export const portfolioConfig = {
       category: 'INTERACTIVE WEB APPLICATION · MULTIPLAYER GAME',
       year: '2025',
       liveUrl: 'https://ludo-ianx.onrender.com/?room=7GRU7X',
-      image: '/src/assets/images/ludo_ianx_game_showcase_1793816536519.jpg',
+      image: '/assets/media/ludo_ianx_game_showcase_1793816536519.jpg',
       problem: 'Exploring real-time state synchronization, interactive game loop logic, and client-server coordination in the browser without heavy commercial game engines.',
       purpose: 'Built an interactive, browser-native room-based multiplayer Ludo game allowing friends to share a room link, roll animated dice, move pawns across the quadrant board, and play turns in real time.',
       features: [
