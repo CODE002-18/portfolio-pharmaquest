@@ -89,7 +89,7 @@ export const Navbar: React.FC<NavbarProps> = ({
         >
           <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-lg overflow-hidden border border-cyan-500/40 dark:border-cyan-400/40 flex items-center justify-center bg-zinc-950 group-hover:border-cyan-400 transition-colors shadow-sm shrink-0">
             <img
-              src="/assets/aistudio/Gemini_Generated_Image_7ng3et7ng3et7ng3_746b13a4.png"
+              src="/assets/media/Gemini_Generated_Image_7ng3et7ng3et7ng3_746b13a4.png"
               alt="Monogram"
               className="w-full h-full object-cover scale-[1.36]"
             />

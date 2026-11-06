@@ -191,7 +191,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onNavigate }) => {
 
               <div className="relative aspect-[3/4] w-full overflow-hidden rounded-lg bg-zinc-100 dark:bg-zinc-900">
                 <img
-                  src="/assets/aistudio/Contemplative_Monochrome_Portrait_with_Wristwatch_dda46732.png"
+                  src="/assets/media/Contemplative_Monochrome_Portrait_with_Wristwatch_dda46732.png"
                   alt="Aryan Tiwari — Bachelor of Pharmacy Student and Digital Creator"
                   className="w-full h-full object-cover object-center grayscale contrast-125 transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"

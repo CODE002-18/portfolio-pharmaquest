@@ -32,7 +32,7 @@ export const Footer: React.FC = () => {
         <div className="flex flex-col sm:flex-row items-center gap-3 text-center sm:text-left">
           <div className="w-7 h-7 rounded-md overflow-hidden border border-cyan-500/40 dark:border-cyan-400/40 flex items-center justify-center bg-zinc-950 shrink-0">
             <img
-              src="/assets/aistudio/Gemini_Generated_Image_7ng3et7ng3et7ng3_746b13a4.png"
+              src="/assets/media/Gemini_Generated_Image_7ng3et7ng3et7ng3_746b13a4.png"
               alt="Monogram"
               className="w-full h-full object-cover scale-[1.36]"
             />
